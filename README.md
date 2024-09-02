@@ -19,4 +19,4 @@ Hi!👋 I'm a responsible and well-organized individual who loves tackling probl
 ![](https://github-contributor-stats.vercel.app/api?username=OrestSonich &limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=OrestSonich &icon=5&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=OrestSonich&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
